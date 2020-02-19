@@ -1,17 +1,17 @@
 def roll_call_dwarves(dwarves)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
-    
+
   dwarves.collect do |dwarf_name|
     puts dwarf_name
   end
 end
 
 def summon_captain_planet
-  
+
 end
 
 def long_planeteer_calls
-  
+
 end
 
 def find_the_cheese# code an argument here
